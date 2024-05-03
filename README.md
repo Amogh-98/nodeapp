@@ -20,3 +20,4 @@ Create Kubernetes Services.yml
 Deploy your application in Kubernetes
 	kubectl apply -f deployment.yml 
 	kubectl apply -f service.yml
+ 
