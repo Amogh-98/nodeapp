@@ -18,5 +18,5 @@ Push your Image to Docker Hub
 Create Kubernetes Deployment.yml
 Create Kubernetes Services.yml
 Deploy your application in Kubernetes
-	kubectl apply -f deployment.yml
+	kubectl apply -f deployment.yml 
 	kubectl apply -f service.yml
